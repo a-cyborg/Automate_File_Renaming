@@ -4,7 +4,7 @@ script to rename files
 ### Usage
 > $ files -s [sear pattern or word] -n [new_name]
 
-"-s", "--searching", help = 'search pattern or word'  
+"-s", "--searching", help = 'Search pattern or word'  
 "-p", "--prefix", help = 'Add specific prefix for all searched files'  
 "-n", "--new_name", help = 'New name with digit index suffix'  
 
